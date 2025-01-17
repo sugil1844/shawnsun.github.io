@@ -16,7 +16,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/sugil1844/shawnsuntest.github.io
+    link: https://github.com/sugil1844/shawnsun.github.io
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/soogil-sun-136b28212/
