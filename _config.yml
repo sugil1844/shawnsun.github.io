@@ -1,5 +1,22 @@
 title: Shawn's Site
 ## logo: 
+description: This is Shawn's portfolio site. 
+email: ssuugill@gmail.com
+favicon: true
+### color-scheme: search later
 show_downloads: false
 ## theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/sugil1844/shawnsuntest.github.io
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/soogil-sun-136b28212/
