@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # shawnsun.github.io 2 
 
 # data stuff  22
