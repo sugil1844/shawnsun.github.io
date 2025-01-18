@@ -18,7 +18,7 @@ The study examines the 100-mile border enforcement zone in the United States tha
 The study examines how factors like location and socioeconomic status predict flooding risk and accessibility to resources within San Francisco County. The study identifies commonalities between spatial distributions of physical, demographic, and economic factors, suggesting a correlation between social and locational flood risk in San Francisco. At the same time, it identifies locations lacking access to emergency resources necessary in the case of flooding. The story illustrates the  value of taking different approaches to analyze flood risk. 
 
 ## Maps
-
+![](data/RA_application_map.jpg?raw=true)
 
 ## Work Experience
 - Project 1
