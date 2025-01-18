@@ -7,13 +7,18 @@
 
 ### Mapping 100 Mile Enforcement Zone
 <arcgis-embedded-map style="height:600px;width:700px;" item-id="e7fbb5b25ffb49a28b5511d98749f4cd" theme="light" portal-url="https://uw.maps.arcgis.com" heading-enabled legend-enabled ></arcgis-embedded-map>
-[Storymap](https://arcg.is/DPiCW1)\
+[Storymap](https://arcg.is/DPiCW1)
+
+The study examines the 100-mile border enforcement zone in the United States that allows border control agencies to enforce immigration and customs laws within 100 miles of external boundaries. Analyzing data scraped from I-213 “Record of Deportable/Inadmissible Alien” forms that are created upon apprehension of a subject by Customs and Border Protections (CBP) and Immigration and Customs Enforcement (ICE) agents, the study reveals disparities in apprehension rates among different nationalities in the Washington and nearby regions. Additionally, the study examines various factors such as local spatial distribution of population density, tribal lands, transportation, apprehensions rates and locations to propose a reduced border enforcement zone for the State of Washington that is reasonable for local landscape. 
 
 ### Flood Vulnerability in San Francisco
 <arcgis-embedded-map style="height:600px;width:700px;" item-id="2e91ced629064db2aec0b75d9432be9e" theme="light" portal-url="https://bucas.maps.arcgis.com" heading-enabled legend-enabled ></arcgis-embedded-map>
-[Storymap](https://arcg.is/1mKymv)\
+[Storymap](https://arcg.is/1mKymv)
+
+The study examines how factors like location and socioeconomic status predict flooding risk and accessibility to resources within San Francisco County. The study identifies commonalities between spatial distributions of physical, demographic, and economic factors, suggesting a correlation between social and locational flood risk in San Francisco. At the same time, it identifies locations lacking access to emergency resources necessary in the case of flooding. The story illustrates the  value of taking different approaches to analyze flood risk. 
 
 ## Maps
+
 
 ## Work Experience
 - Project 1
