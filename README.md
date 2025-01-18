@@ -15,10 +15,21 @@ The study examines the 100-mile border enforcement zone in the United States tha
 <arcgis-embedded-map style="height:600px;width:700px;" item-id="2e91ced629064db2aec0b75d9432be9e" theme="light" portal-url="https://bucas.maps.arcgis.com" heading-enabled legend-enabled ></arcgis-embedded-map>
 [Storymap](https://arcg.is/1mKymv)
 
+![](data/GIS_Competition_2023.jpg?raw=true)
+
 The study examines how factors like location and socioeconomic status predict flooding risk and accessibility to resources within San Francisco County. The study identifies commonalities between spatial distributions of physical, demographic, and economic factors, suggesting a correlation between social and locational flood risk in San Francisco. At the same time, it identifies locations lacking access to emergency resources necessary in the case of flooding. The story illustrates the  value of taking different approaches to analyze flood risk. 
+
+### Catastrophe Awareness App
+
+![](data/SEACAT.png?raw=true)
+
+[Link to Actual Site](https://seacat-84da1.firebaseapp.com/map)
+This project from 2024 informatics capstone at University of Washington aimed at solving information problem regarding accessibility to resources during the case of earthquake in Seattle Region. The app was created using FEMA data and React. 
 
 ## Maps
 ![](data/RA_application_map.jpg?raw=true)
+
+
 
 ## Work Experience
 - Project 1
