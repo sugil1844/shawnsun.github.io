@@ -24,6 +24,7 @@ The study examines how factors like location and socioeconomic status predict fl
 ![](data/SEACAT.png?raw=true)
 
 [Link to Actual Site](https://seacat-84da1.firebaseapp.com/map)
+
 This project from 2024 informatics capstone at University of Washington aimed at solving information problem regarding accessibility to resources during the case of earthquake in Seattle Region. The app was created using FEMA data and React. 
 
 ## Maps
