@@ -1,4 +1,5 @@
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
 # shawnsun.github.io
 
 # data stuff 
@@ -10,11 +11,9 @@
 [Storymap](https://arcg.is/DPiCW1)\
 
 ### Flood Vulnerability in San Francisco
-<!-- Add script to the <head> of your page to load the embeddable map component -->
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
-<!-- Add custom element to <body> of your page -->
- <arcgis-embedded-map style="height:600px;width:700px;" item-id="2e91ced629064db2aec0b75d9432be9e" theme="light" portal-url="https://bucas.maps.arcgis.com" heading-enabled legend-enabled ></arcgis-embedded-map>
+<arcgis-embedded-map style="height:600px;width:700px;" item-id="2e91ced629064db2aec0b75d9432be9e" theme="light" portal-url="https://bucas.maps.arcgis.com" heading-enabled legend-enabled ></arcgis-embedded-map>
 [Storymap](https://arcg.is/1mKymv)\
+
 ## Maps
 
 ## Work Experience
